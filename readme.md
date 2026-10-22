@@ -2,7 +2,7 @@
 
 A full-stack web application that converts photos of handwritten notes into editable, exportable text. Built with a FastAPI backend and an HTML/CSS/JavaScript frontend, it sends uploaded images to Google’s Gemini model for OCR, then lets users correct the transcription and export it as a PDF, Word document or text file. Developed across three Agile cycles and shaped by stakeholder surveys (directly taken from students), competitor analysis and testing, it demonstrates modular, documented code and a user-centred approach to software engineering.
 
-<video src="[Showcase.mp4](https://github.com/user-attachments/assets/0ba23912-33d7-47f3-8ceb-010a45105a07)" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/0ba23912-33d7-47f3-8ceb-010a45105a07" controls width="600"></video>
 
 # Dependencies and Instructions to run
 - pip install fastapi[standard]
